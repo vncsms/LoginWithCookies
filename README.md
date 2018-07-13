@@ -1,2 +1,2 @@
 # LoginWithCookies
-Login with cookies varification, using bottle and mongo
+Login with cookies verification, using bottle and mongo
