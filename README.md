@@ -3,7 +3,9 @@ Login with cookies verification, using bottle and mongo
 
 - pypy:
     
-    Create a virtualenv wth python 2.7 and: `pip install -r requirements.txt`
+    Create a virtualenv wth python 2.7 and: 
+    
+    `pip install -r requirements.txt`
     
 - Requirements:
     
