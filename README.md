@@ -11,12 +11,13 @@ Login with cookies verification, using bottle and mongo
     
 - Now you insert an user in mongo:
     
+    ```
     mongo admin
-    
     db.admin_user.insert({'username':'toninho', 'password':'123123'})
+    ```
     
 - Initiate the app in server directory:
     
-    python app.py
+    ``python app.py``
     
 - Acess 127.0.0.1:8080/index.html
