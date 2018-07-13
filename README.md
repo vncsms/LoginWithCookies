@@ -3,7 +3,7 @@ Login with cookies verification, using bottle and mongo
 
 - pypy:
     
-    Create a virtualenv wth python 2.7 and: 
+    Create a virtualenv with python 2.7 and: 
     
     `pip install -r requirements.txt`
     
@@ -23,3 +23,6 @@ Login with cookies verification, using bottle and mongo
     ``python app.py``
     
 - Acess 127.0.0.1:8080/index.html
+
+
+CSS from: https://codepen.io/Lewitje/pen/BNNJjo
