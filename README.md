@@ -25,4 +25,7 @@ Login with cookies verification, using bottle and mongo
 - Acess 127.0.0.1:8080/index.html
 
 
+The generated tolken longs by 1 hour
+
+
 CSS from: https://codepen.io/Lewitje/pen/BNNJjo
